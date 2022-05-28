@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\bin\Debug\net6.0\No38.exe
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\bin\Debug\net6.0\No38.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\bin\Debug\net6.0\No38.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\bin\Debug\net6.0\No38.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\bin\Debug\net6.0\No38.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\refint\No38.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\No38.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar5_Csharp\No38\obj\Debug\net6.0\ref\No38.dll
